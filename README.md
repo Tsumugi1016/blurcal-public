@@ -12,3 +12,5 @@ This is just the beginning. Stay tuned for updates.
 
 BlurCal was invented by GhostWorks and AI.  
 Conceived and designed by Kazuhiro Sato.
+
+Repository initialized on **2025/08/15** as public proof of project start.
